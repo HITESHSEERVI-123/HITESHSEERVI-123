@@ -2,32 +2,33 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Hitesh%20Seervi&fontAlign=50&fontAlignY=40&fontSize=55&color=gradient"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Automation+Systems;Python+Developer+%7C+Problem+Solver;Creating+Tools+That+Save+Time;Future+Founder+%26+System+Builder" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Automation+Systems;Python+Developer+%7C+Problem+Solver;Creating+Tools+That+Save+Time;Future+Founder+%26+System+Builder"/>
 
-<h3 align="center">
-Turning Ideas Into Software, One Project At A Time.
-</h3>
+<h3>Turning Ideas Into Software, One Project At A Time.</h3>
 
 </div>
 
----
+<hr/>
 
-## ⚡ About Me
+<h2>⚡ About Me</h2>
 
-- 🎓 Class 12 Computer Science Student  
-- 🐍 Python Developer focused on Automation  
-- 🤖 Building tools that replace repetitive work  
-- 📊 Interested in Trading Systems & Data Analysis  
-- 🌱 Currently learning DSA and Software Engineering  
-- 🚀 Building projects instead of collecting tutorials  
+<ul>
+  <li>🎓 Class 12 Computer Science Student</li>
+  <li>🐍 Python Developer focused on Automation</li>
+  <li>🤖 Building tools that replace repetitive work</li>
+  <li>📊 Interested in Trading Systems & Data Analysis</li>
+  <li>🚀 Building projects instead of collecting tutorials</li>
+</ul>
 
-> I enjoy creating software that solves real problems, automates repetitive tasks, and scales beyond manual work.
+<blockquote>
+I build software that solves real problems, automates boring tasks, and scales beyond manual effort.
+</blockquote>
 
----
+<hr/>
 
-## 🧠 Developer Snapshot
+<h2>🧠 Developer Snapshot</h2>
 
-```yaml
+<pre>
 Name: Hitesh Seervi
 
 Role:
@@ -46,67 +47,121 @@ Building:
   - Automation Tools
 
 Mission:
-  Build software products and scalable systems.
-```
+  Build scalable software systems that solve real problems.
+</pre>
 
-.
-🛠 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode"/> </p>
+<hr/>
 
-📊 GitHub Analytics
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HITESHSEERVI-123&show_icons=true&theme=tokyonight"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HITESHSEERVI-123&layout=compact&theme=tokyonight"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=HITESHSEERVI-123&theme=tokyonight"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=HITESHSEERVI-123&theme=tokyo-night"/> </p>
+<h2>🛠 Tech Stack</h2>
 
->
-🏆 GitHub Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=HITESHSEERVI-123&theme=tokyonight&row=1&column=7"/> </p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode"/>
+</p>
 
-⚔️ Problem Solving
-<p align="center"> <img src="https://leetcard.jacoblin.cool/w4k8bhikND?theme=dark&font=JetBrains%20Mono"/> </p>
+<hr/>
 
-🌟 Featured Projects
-<p align="center"> <a href="https://github.com/HITESHSEERVI-123/ALAKSHYA-Trading-Bot-"> <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=HITESHSEERVI-123&repo=ALAKSHYA-Trading-Bot-&theme=tokyonight"/> </a> <a href="https://github.com/HITESHSEERVI-123/Banking-System-Simulator"> <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=HITESHSEERVI-123&repo=Banking-System-Simulator&theme=tokyonight"/> </a> </p>
+<h2>📊 GitHub Analytics</h2>
 
-🏦 Banking System Simulator
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HITESHSEERVI-123&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HITESHSEERVI-123&layout=compact&theme=tokyonight"/>
+</p>
 
-A feature-rich banking application built in Python that simulates real-world banking operations including account creation, deposits, withdrawals, transaction history, balance tracking, and account management.
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=HITESHSEERVI-123&theme=tokyonight"/>
+</p>
 
-Key Concepts
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HITESHSEERVI-123&theme=tokyo-night"/>
+</p>
 
-Object-Oriented Programming
-Input Validation
-Data Management
-Transaction Processing
-Real-World System Design
+<hr/>
 
-🤖 Alakshya Trading Bot
+<h2>🏆 GitHub Achievements</h2>
 
-An algorithmic trading project focused on automating market analysis and trade execution workflows while exploring risk management and decision-making systems.
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=HITESHSEERVI-123&theme=tokyonight&row=1&column=7"/>
+</p>
 
-Key Concepts
+<hr/>
 
-Automation
-Trading Logic
-Data Processing
-Strategy Development
-Financial Data Handling
+<h2>⚔️ Problem Solving</h2>
 
-🚀 Current Focus
-Area	Focus
-🐍 Python	Advanced Development
-🤖 Automation	APIs & Web Scraping
-🧠 DSA	Algorithms & Problem Solving
-🌐 Web Dev	Frontend Fundamentals
-📊 Data	Pandas & Processing
-💼 Freelancing	Client-Ready Solutions
-📈 Trading	Algorithmic Systems
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/w4k8bhikND?theme=dark&font=JetBrains%20Mono"/>
+</p>
 
-👀 Profile Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=HITESHSEERVI-123&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/> </p>
+<hr/>
 
-💭 Mindset
+<h2>🌟 Featured Projects</h2>
 
-Small projects become big skills.
-Big skills become opportunities.
+<p align="center">
+<a href="https://github.com/HITESHSEERVI-123/ALAKSHYA-Trading-Bot-">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=HITESHSEERVI-123&repo=ALAKSHYA-Trading-Bot-&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/HITESHSEERVI-123/Banking-System-Simulator">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=HITESHSEERVI-123&repo=Banking-System-Simulator&theme=tokyonight"/>
+</a>
+</p>
+
+<hr/>
+
+<h2>🚀 Current Focus</h2>
+
+<table align="center">
+<tr><th>Area</th><th>Focus</th></tr>
+<tr><td>🐍 Python</td><td>Advanced Development</td></tr>
+<tr><td>🤖 Automation</td><td>APIs & Web Scraping</td></tr>
+<tr><td>🧠 DSA</td><td>Algorithms & Problem Solving</td></tr>
+<tr><td>🌐 Web Dev</td><td>Frontend Fundamentals</td></tr>
+<tr><td>📊 Data</td><td>Pandas & Processing</td></tr>
+<tr><td>💼 Freelancing</td><td>Client-Ready Systems</td></tr>
+<tr><td>📈 Trading</td><td>Algorithmic Systems</td></tr>
+</table>
+
+<hr/>
+
+<h2>🤝 Let’s Connect</h2>
+
+<p align="center">
+
+<a href="https://github.com/HITESHSEERVI-123">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hitesh-seervi--/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/w4k8bhikND/">
+<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.codechef.com/users/brave_colt_14">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef"/>
+</a>
+
+</p>
+
+<hr/>
+
+<h2>👀 Profile Views</h2>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=HITESHSEERVI-123&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+</p>
+
+<hr/>
+
+<h2>💭 Mindset</h2>
+
+<blockquote>
+Small projects become big skills.<br/>
+Big skills become opportunities.<br/>
 Opportunities become businesses.
+</blockquote>
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </div> ```
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
