@@ -29,28 +29,37 @@ Learning code today to build businesses tomorrow.
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?lines=Python+Developer;Automation+Builder;Future+Software+Engineer)
 
+### 🙋‍♂️ About Me
+
 ```python
-class Hitesh:
-    def __init__(self):
-        self.role = "Student Developer"
-        self.age = 17
-        self.code = ["Python"]
-        self.interests = [
-            "Automation",
-            "Web Scraping",
-            "Software Development"
-        ]
-        self.currently_learning = [
-            "DSA",
-            "APIs",
-            "Git & GitHub"
-        ]
-        self.goal = "Build products that solve real problems"
+class HiteshSeervi:
 
-    def future(self):
-        return "Software Engineer & Entrepreneur"
+    name       = "Hitesh Seervi"
+    age        = 17
+    location   = "India 🇮🇳"
+    education  = "Class 12 | Computer Science 🎓"
+
+    stack = {
+        "languages" : ["Python 🐍", "HTML", "CSS"],
+        "tools"     : ["Git", "GitHub", "VS Code"],
+        "learning"  : ["DSA 📚", "JavaScript ⚡"],
+        "current"   : "Automation & Web Scraping 🚀"
+    }
+
+    interests = [
+        "Software Development 💻",
+        "Automation 🤖",
+        "Problem Solving 🧩",
+        "Building Products 🏗️"
+    ]
+
+    goal = "Build impactful software and scalable systems 🌍"
+
+    motto = "Learn → Build → Improve → Repeat 🔥"
+
+    def say_hi(self):
+        print("Thanks for visiting my profile! 🚀")
 ```
-
 <img src="https://github-readme-stats.vercel.app/api?username=HITESHSEERVI-123&show_icons=true&theme=tokyonight"/>
 
 <img src="https://streak-stats.demolab.com?user=HITESHSEERVI-123&theme=tokyonight"/>
