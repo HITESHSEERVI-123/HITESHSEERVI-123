@@ -74,8 +74,9 @@ class HiteshSeervi:
 </tr>
 </table>
 <br clear="right"/>
-<img align = "center"src="https://streak-stats.demolab.com?user=HITESHSEERVI-123&theme=tokyonight"/>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HITESHSEERVI-123&theme=tokyonight" />
+</p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HITESHSEERVI-123&theme=tokyo-night"/>
 
 
