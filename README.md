@@ -48,15 +48,16 @@ class HiteshSeervi:
     stack = {
         "languages" : ["Python 🐍", "HTML", "CSS"],
         "tools"     : ["Git", "GitHub", "VS Code"],
-        "learning"  : ["DSA 📚", "JavaScript ⚡"],
-        "current"   : "Automation & Web Scraping 🚀"
+        "learning"  : ["DSA ⚡","Numpy Lib 📚"],
+        "current"   : ["Automation & Web Scraping 🚀" ,"Building Real World Projects ⚡"]
     }
 
     interests = [
         "Software Development 💻",
-        "Automation 🤖",
+        "AI / ML 🤖",
         "Problem Solving 🧩",
         "Building Products 🏗️"
+
     ]
 
     goal = "Build impactful software and scalable systems 🌍"
