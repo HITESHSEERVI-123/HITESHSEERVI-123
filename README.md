@@ -27,7 +27,7 @@ Learning code today to build businesses tomorrow.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hitesh%20Seervi&fontAlign=50&fontAlignY=40&color=gradient"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Python+Developer;Automation+Builder;Future+Software+Engineer)]
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Python+Developer;Automation+Builder;Future+Software+Engineer)
 
 <img src="https://github-readme-stats.vercel.app/api?username=HITESHSEERVI-123&show_icons=true&theme=tokyonight"/>
 
