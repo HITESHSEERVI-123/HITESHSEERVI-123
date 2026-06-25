@@ -29,7 +29,9 @@ Learning code today to build businesses tomorrow.
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?lines=Python+Developer;Automation+Builder;Future+Software+Engineer)
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=HITESHSEERVI-123&show_icons=true&theme=tokyonight"/>
 
 ### 🙋‍♂️ About Me
 
@@ -64,8 +66,6 @@ class HiteshSeervi:
 ```
 
 <br clear="right"/>
-<img src="https://github-readme-stats.vercel.app/api?username=HITESHSEERVI-123&show_icons=true&theme=tokyonight"/>
-
 <img src="https://streak-stats.demolab.com?user=HITESHSEERVI-123&theme=tokyonight"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HITESHSEERVI-123&theme=tokyo-night"/>
