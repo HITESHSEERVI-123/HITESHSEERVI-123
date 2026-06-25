@@ -1,4 +1,4 @@
-    👋 Hi, I'm Hitesh
+👋 Hi, I'm Hitesh
 
 🚀 Python Developer | Automation Enthusiast
 🎓 Class 12 Computer Science Student
@@ -85,7 +85,7 @@ class HiteshSeervi:
 
 ## 🌟 Featured Projects
 
-<a href="#">
+<a href="https://github.com/HITESHSEERVI-123/ALAKSHYA-Trading-Bot-">
   <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=HITESHSEERVI-123&repo=ALAKSHYA-Trading-Bot-&theme=tokyonight" />
 </a>
 
