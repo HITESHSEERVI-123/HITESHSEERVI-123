@@ -47,6 +47,7 @@ Building:
 
 Mission:
   Build software products and scalable systems.
+```
 
 .
 🛠 Tech Stack
