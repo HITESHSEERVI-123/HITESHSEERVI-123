@@ -29,15 +29,9 @@ Learning code today to build businesses tomorrow.
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?lines=Python+Developer;Automation+Builder;Future+Software+Engineer)
 
-<div align="right">
-
-<img width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
-<br><br>
-
-<img width="350" src="https://github-readme-stats.vercel.app/api?username=HITESHSEERVI-123&show_icons=true&theme=tokyonight"/>
-
-</div>
+<table>
+<tr>
+<td width="60%">
 
 ### 🙋‍♂️ About Me
 
@@ -64,13 +58,21 @@ class HiteshSeervi:
     ]
 
     goal = "Build impactful software and scalable systems 🌍"
-
-    motto = "Learn → Build → Improve → Repeat 🔥"
-
-    def say_hi(self):
-        print("Thanks for visiting my profile! 🚀")
 ```
 
+</td>
+
+<td width="40%">
+
+<img width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+<br><br>
+
+<img width="350" src="https://github-readme-stats.vercel.app/api?username=HITESHSEERVI-123&show_icons=true&theme=tokyonight"/>
+
+</td>
+</tr>
+</table>
 <br clear="right"/>
 <img src="https://streak-stats.demolab.com?user=HITESHSEERVI-123&theme=tokyonight"/>
 
