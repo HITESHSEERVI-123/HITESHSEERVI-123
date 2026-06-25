@@ -26,8 +26,8 @@ Build software products and automated systems while developing strong engineerin
 Learning code today to build businesses tomorrow.
 <p align= "center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hitesh%20Seervi&fontAlign=50&fontAlignY=40&color=gradient"/>
-</p>
 ![Typing SVG](https://readme-typing-svg.demolab.com?lines=Python+Developer;Automation+Builder;Future+Software+Engineer)
+</p>
 
 <table>
 <tr>
