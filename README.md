@@ -28,7 +28,7 @@ Learning code today to build businesses tomorrow.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hitesh%20Seervi&fontAlign=50&fontAlignY=40&color=gradient" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Python+Developer;Automation+Builder;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=17+y/o+Python+Developer;Automation+Builder;AI+ML+Ethusiasist+🤖" />
 
 </div>
 
