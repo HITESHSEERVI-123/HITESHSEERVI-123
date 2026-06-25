@@ -1,16 +1,39 @@
-## Hi there 👋
+👋 Hi, I'm Hitesh
 
-<!--
-**HITESHSEERVI-123/HITESHSEERVI-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Python Developer | Automation Enthusiast
+🎓 Class 12 Computer Science Student
+📍 India
 
-Here are some ideas to get you started:
+💡 Building automation tools, scrapers, and real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Current Focus
+- Python
+- Web Scraping
+- Automation
+- APIs
+- DSA
+
+🎯 Goal
+Build software products and automated systems while developing strong engineering skills.
+
+📈 Currently Building
+- Price Tracker
+- Lead Generator
+- Web Scrapers
+- Portfolio Website
+
+🔥 Fun Fact
+Learning code today to build businesses tomorrow.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hitesh%20Seervi&fontAlign=50&fontAlignY=40&color=gradient"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Python+Developer;Automation+Builder;Future+Software+Engineer)]
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
