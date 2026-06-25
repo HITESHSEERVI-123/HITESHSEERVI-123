@@ -164,14 +164,10 @@ Opportunities become businesses.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Hitesh%20Seervi&fontAlign=50&fontAlignY=40&fontSize=55&color=gradient"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Automation+Systems;Python+Developer+%7C+Problem+Solver;Creating+Tools+That+Save+Time;Future+Founder+%26+System+Builder"/>
-
-<h3>Turning Ideas Into Software, One Project At A Time.</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Code%20is%20poetry%20written%20in%20logic%20%E2%80%94%20and%20I%20write%20it%20every%20single%20day.-blueviolet?style=for-the-badge"/>
+<em>Code is poetry written in logic — and I write it every single day ✨</em>
 
 </div>
