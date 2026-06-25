@@ -77,13 +77,6 @@ Mission:
 
 <hr/>
 
-<h2>🏆 GitHub Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HITESHSEERVI-123&theme=tokyonight&row=1&column=7" />
-</p>
-
-<hr/>
 
 <h2>⚔️ Problem Solving</h2>
 
