@@ -144,10 +144,6 @@ Mission:
 
 </p>
 
-<hr/>
-
-
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=HITESHSEERVI-123&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 </p>
