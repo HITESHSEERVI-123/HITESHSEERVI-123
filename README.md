@@ -146,13 +146,12 @@ Mission:
 
 <hr/>
 
-<h2>👀 Profile Views</h2>
+
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=HITESHSEERVI-123&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 </p>
 
-<hr/>
 
 <h2>💭 Mindset</h2>
 
