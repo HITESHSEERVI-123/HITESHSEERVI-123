@@ -83,5 +83,82 @@ class HiteshSeervi:
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HITESHSEERVI-123&theme=tokyo-night"/>
 
+## 🌟 Featured Projects
+
+<a href="#">
+  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=HITESHSEERVI-123&repo=Bank-System&theme=tokyonight" />
+</a>
+
+### 🏦 Banking Management System
+
+A Python-based banking simulation project featuring account creation, deposits, withdrawals, balance tracking, and transaction management.
+
+---
+
+### 🤖 Alakshya Trading Bot
+
+An automated trading system project focused on market analysis, trade execution logic, risk management concepts, and automation workflows.
+
+---
+
+## 📚 Currently Exploring
+
+<div align="center">
+
+| 🚀 Area            | 🎯 Focus                        |
+| ------------------ | ------------------------------- |
+| 🐍 Python          | Advanced Python Development     |
+| 🤖 Automation      | Web Scraping & APIs             |
+| 🧠 DSA             | Problem Solving & Algorithms    |
+| 🌐 Web Development | Frontend Fundamentals           |
+| 📊 Data Analysis   | Pandas & Data Processing        |
+| 💼 Freelancing     | Building Client-Ready Solutions |
+| 📈 Trading Systems | Algorithmic Trading Concepts    |
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/HITESHSEERVI-123">
+<img src="https://img.shields.io/badge/GitHub-HITESHSEERVI--123-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hitesh-seervi--/">
+<img src="https://img.shields.io/badge/LinkedIn-Hitesh%20Seervi-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/w4k8bhikND/">
+<img src="https://img.shields.io/badge/LeetCode-w4k8bhikND-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.codechef.com/users/brave_colt_14">
+<img src="https://img.shields.io/badge/CodeChef-brave__colt__14-5B4638?style=for-the-badge&logo=codechef"/>
+</a>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=HITESHSEERVI-123&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+</p>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Journey
+
+*"Success is rarely built in dramatic moments. It is built in ordinary days repeated consistently."* ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+</div>
 
 
