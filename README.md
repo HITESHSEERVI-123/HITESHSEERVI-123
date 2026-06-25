@@ -49,7 +49,8 @@ class HiteshSeervi:
         "languages" : ["Python 🐍", "HTML", "CSS"],
         "tools"     : ["Git", "GitHub", "VS Code"],
         "learning"  : ["DSA ⚡","Numpy Lib 📚"],
-        "current"   : ["Automation & Web Scraping 🚀" ,"Building Real World Projects ⚡"]
+        "current"   : ["Automation & Web Scraping 🚀" ,
+                       "Building Real World Projects ⚡"]
     }
 
     interests = [
