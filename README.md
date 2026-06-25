@@ -88,6 +88,10 @@ class HiteshSeervi:
 <a href="https://github.com/HITESHSEERVI-123/ALAKSHYA-Trading-Bot-">
   <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=HITESHSEERVI-123&repo=ALAKSHYA-Trading-Bot-&theme=tokyonight" />
 </a>
+<a href="https://github.com/HITESHSEERVI-123/Banking-System-Simulator/">
+  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=HITESHSEERVI-123&repo=Banking-System-Simulator&theme=tokyonight" />
+</a>
+
 
 ### 🏦 Banking Management System
 
