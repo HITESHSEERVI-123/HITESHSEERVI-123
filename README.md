@@ -68,10 +68,6 @@ Mission:
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=HITESHSEERVI-123&theme=tokyonight"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HITESHSEERVI-123&theme=tokyo-night"/>
 </p>
 
