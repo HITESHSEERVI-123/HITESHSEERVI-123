@@ -24,10 +24,13 @@ Build software products and automated systems while developing strong engineerin
 
 🔥 Fun Fact
 Learning code today to build businesses tomorrow.
-<p align= "center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hitesh%20Seervi&fontAlign=50&fontAlignY=40&color=gradient"/>
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=Python+Developer;Automation+Builder;Future+Software+Engineer)
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hitesh%20Seervi&fontAlign=50&fontAlignY=40&color=gradient" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Python+Developer;Automation+Builder;Future+Software+Engineer" />
+
+</div>
 
 <table>
 <tr>
